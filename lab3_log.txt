@@ -1,0 +1,213 @@
+Script started on Sun 01 Mar 2020 09:55:50 PM EST
+]0;briannadrew@loki:~/lab3[?1034h[briannadrew@loki lab3]$ ./Lab3 [K
+sh: @cls: command not found
+[3;J[H[2J
+Information for ./
+
+inode   Type  UID   GID     SIZE                Filename                Modification date
+-----   ----  ---   ---     ---------------     ---------------------   ------------------------
+1059333 dir   1230  1241        4096  bytes                          .  Sun Mar  1 21:55:50 2020
+1053569 dir   1230  1241        4096  bytes                         ..  Fri Feb 28 08:48:46 2020
+1059357 reg   1230  1241       13392  bytes                       Lab3  Sun Mar  1 17:44:39 2020
+1059468 reg   1230  1241       11809  bytes                     Lab3.c  Sun Mar  1 21:51:32 2020
+1059352 dir   1230  1241        4096  bytes                    backups  Sun Mar  1 08:22:56 2020
+1059562 reg   1230  1241           0  bytes               lab3_log.txt  Sun Mar  1 21:55:50 2020
+
+]0;briannadrew@loki:~/lab3[briannadrew@loki lab3]$ ./Lab3 ../
+sh: @cls: command not found
+[3;J[H[2J
+Information for ../
+
+inode   Type  UID   GID     SIZE                Filename                Modification date
+-----   ----  ---   ---     ---------------     ---------------------   ------------------------
+1053569 dir   1230  1241        4096  bytes                          .  Fri Feb 28 08:48:46 2020
+2       dir   0     0          20480  bytes                         ..  Fri Jan 31 10:04:42 2020
+1053571 reg   1230  1241       18550  bytes              .bash_history  Sun Mar  1 20:58:25 2020
+1053588 reg   1230  1241          18  bytes               .bash_logout  Tue Apr 10 20:53:01 2018
+1053581 reg   1230  1241         193  bytes              .bash_profile  Tue Apr 10 20:53:01 2018
+1053579 reg   1230  1241         462  bytes                    .bashrc  Sat Jun 24 09:23:49 2017
+731     dir   1230  1241        4096  bytes                     .cache  Tue Sep 10 19:22:02 2019
+746     dir   1230  1241        4096  bytes                    .config  Tue Sep 10 19:22:02 2019
+1053590 reg   1230  1241         208  bytes                   .dvipsrc  Fri Nov  8 14:24:16 2013
+1053585 reg   1230  1241        1637  bytes                     .emacs  Mon Feb 15 07:49:56 2010
+1053586 reg   1230  1241        1332  bytes                      .exrc  Fri Nov  8 14:24:16 2013
+1053594 dir   1230  1241        4096  bytes                     .fonts  Wed May  5 10:04:57 2010
+1053570 reg   1230  1241       18251  bytes                 .gnu-emacs  Mon Mar 23 12:13:20 2015
+1053599 reg   1230  1241         861  bytes                   .inputrc  Fri May 19 08:21:27 2006
+1053573 reg   1230  1241         164  bytes                    .kermrc  Fri Nov  8 14:24:16 2013
+1053582 dir   1230  1241        4096  bytes                   .mozilla  Sun Feb 19 19:19:28 2017
+1053591 reg   1230  1241        6043  bytes                    .muttrc  Tue Mar 10 05:21:15 2015
+1053592 reg   1230  1241         925  bytes                   .profile  Fri Nov  8 14:24:16 2013
+1053600 reg   1230  1241         311  bytes                   .urlview  Fri Nov  8 14:24:16 2013
+1062073 reg   1230  1241        4886  bytes                   .viminfo  Tue Oct 15 15:01:10 2019
+1053572 reg   1230  1241         849  bytes                     .vimrc  Thu Nov 24 11:01:23 2016
+1053596 reg   1230  1241        7913  bytes                  .xcoralrc  Fri Nov  8 14:24:16 2013
+1053597 dir   1230  1241        4096  bytes                    .xemacs  Fri Nov  8 14:24:16 2013
+1053580 reg   1230  1241        1940  bytes              .xim.template  Fri Nov  8 14:24:16 2013
+1053587 reg   1230  1241        1365  bytes          .xinitrc.template  Fri Nov  8 14:24:16 2013
+1053589 reg   1230  1241         119  bytes                   .xtalkrc  Fri Nov  8 14:24:16 2013
+1053601 dir   1230  1241        4096  bytes               COIS-2830H-A  Thu Sep  6 12:05:31 2018
+1058408 dir   1230  1241        4096  bytes               COIS-3320H-A  Wed Dec  4 00:44:47 2019
+1053574 dir   1230  1241        4096  bytes                  Documents  Fri Nov  8 14:24:16 2013
+1052111 reg   1230  1241        5006  bytes     Drew_Brianna_LAB(1).zip  Wed Jan 29 17:41:06 2020
+1055520 reg   1230  1241       14063  bytes     Drew_Brianna_LAB(2).zip  Sun Feb 16 19:30:48 2020
+1053595 dir   1230  1241        4096  bytes                        bin  Wed May  5 10:04:57 2010
+1051186 dir   1230  1241        4096  bytes                       lab0  Fri Jan 17 19:43:27 2020
+1051192 dir   1230  1241        4096  bytes                       lab1  Wed Jan 29 17:42:38 2020
+1054205 dir   1230  1241        4096  bytes                       lab2  Sun Feb 16 18:51:01 2020
+1059333 dir   1230  1241        4096  bytes                       lab3  Sun Mar  1 21:55:50 2020
+1053576 dir   1230  1241        4096  bytes                public_html  Tue Jan 28 21:42:55 2020
+
+]0;briannadrew@loki:~/lab3[briannadrew@loki lab3]$ ./Lab3 /home/COIS3380/[K[K[K[K[K/3380/lab3
+sh: @cls: command not found
+[3;J[H[2J
+Information for /home/COIS/3380/lab3/
+
+inode   Type  UID   GID     SIZE                Filename                Modification date
+-----   ----  ---   ---     ---------------     ---------------------   ------------------------
+656680  dir   0     1531        4096  bytes                          .  Sun Jul 30 15:37:02 2017
+656673  dir   0     0           4096  bytes                         ..  Wed Feb  5 15:29:24 2020
+656716  reg   1000  1531        1832  bytes            1_test_random.c  Tue Jan 26 09:58:24 2016
+656710  reg   1000  1531        2879  bytes            2_seed_random.c  Tue Jan 26 09:58:24 2016
+656712  reg   1000  1531        6915  bytes           3_range_random.c  Tue Jan 26 10:53:18 2016
+656688  reg   1000  1531        1179  bytes                   C128.XTK  Tue Jan  1 00:01:28 1980
+656691  reg   1005  1531       40102  bytes                CALCOMP.ARC  Sun Dec  6 16:21:52 1987
+656684  reg   0     1531           0  bytes                  CHAT_FIFO  Sun Jul 30 15:37:02 2017
+656690  reg   1000  1531       22434  bytes     Shell_file_processing.pdf  Thu Jan 21 10:43:52 2016
+656692  reg   1000  1531     9043232  bytes     WinSCP-5.9.3-Setup.exe  Sat Feb  4 15:12:29 2017
+656695  reg   1000  1531       20675  bytes     arasaurolopus_baby.pdf  Mon Feb 21 18:27:00 2000
+656693  reg   1000  1531     6477803  bytes             cities_all.csv  Fri Jan 20 12:38:49 2017
+656711  reg   1000  1531         559  bytes           cities_short.csv  Fri Jan 20 12:38:49 2017
+656706  reg   1000  1531       87489  bytes             diplodocus.pdf  Mon Feb 21 18:24:00 2000
+656698  dir   1000  1531        4096  bytes                    gnuplot  Mon Feb  8 13:39:14 2016
+664343  reg   0     48            20  bytes                   info.php  Mon Feb 20 13:21:01 2017
+656714  reg   1000  1531       46903  bytes                  jewel.jpg  Sun Jul  3 13:09:58 2005
+656679  reg   0     1531         616  bytes          lab2_textfile.txt  Tue Jul 25 11:23:57 2017
+656683  reg   0     1531    16436089  bytes            lab3_dir.tar.gz  Sun Jul 30 11:44:47 2017
+656689  reg   1000  1531      408606  bytes                  poke1.jpg  Thu Nov  1 17:03:34 2001
+656696  reg   1000  1531      531368  bytes                  putty.exe  Tue Jan 17 17:45:15 2017
+656682  reg   1000  1531        1921  bytes            small_world.txt  Sun Jul 30 11:17:17 2017
+656713  reg   1000  1531       36019  bytes               stegosau.pdf  Mon Feb 21 18:21:40 2000
+656708  reg   1000  1531        3093  bytes           string_testing.c  Wed Feb  1 07:07:25 2017
+656687  reg   1000  1531      213904  bytes     visual_Studio_Community.exe  Fri Dec  9 10:17:00 2016
+
+]0;briannadrew@loki:~/lab3[briannadrew@loki lab3]$ ./Lab3 -s 90 /home/COIS/
+3380/                               show_http_access_msbookings         show_http_errors_msbookings         
+msbookings_fix_storage_permissions  show_http_errors                    XYZZY/                              
+[briannadrew@loki lab3]$ ./Lab3 -s 90 /home/COIS/lab3[K[K[K[K3380/lab3
+sh: @cls: command not found
+[3;J[H[2J
+Information for /home/COIS/3380/lab3/
+
+inode   Type  UID   GID     SIZE                Filename                Modification date
+-----   ----  ---   ---     ---------------     ---------------------   ------------------------
+656673  dir   0     0           4096  bytes                         ..  Wed Feb  5 15:29:24 2020
+
+]0;briannadrew@loki:~/lab3[briannadrew@loki lab3]$ ./Lab3 -s 90 /home/COIS/3380/lab3[C[C[1@3[1@ [C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+sh: @cls: command not found
+[3;J[H[2J
+Information for /home/COIS/3380/lab3/
+
+inode   Type  UID   GID     SIZE                Filename                Modification date
+-----   ----  ---   ---     ---------------     ---------------------   ------------------------
+656673  dir   0     0           4096  bytes                         ..  Wed Feb  5 15:29:24 2020
+
+]0;briannadrew@loki:~/lab3[briannadrew@loki lab3]$ ./Lab3 -s 390 /home/COIS/3380/lab3[C[C[C[C[1P[1@8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+sh: @cls: command not found
+[3;J[H[2J
+Information for /home/COIS/3380/lab3/
+
+inode   Type  UID   GID     SIZE                Filename                Modification date
+-----   ----  ---   ---     ---------------     ---------------------   ------------------------
+656673  dir   0     0           4096  bytes                         ..  Wed Feb  5 15:29:24 2020
+
+]0;briannadrew@loki:~/lab3[briannadrew@loki lab3]$ ./Lab3 -s 890 /home/COIS/3380/lab3[1P[1@ [C[1P[1@1[1@0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+sh: @cls: command not found
+[3;J[H[2J
+Information for /home/COIS/3380/lab3/
+
+inode   Type  UID   GID     SIZE                Filename                Modification date
+-----   ----  ---   ---     ---------------     ---------------------   ------------------------
+656680  dir   0     1531        4096  bytes                          .  Sun Jul 30 15:37:02 2017
+656673  dir   0     0           4096  bytes                         ..  Wed Feb  5 15:29:24 2020
+656684  reg   0     1531           0  bytes                  CHAT_FIFO  Sun Jul 30 15:37:02 2017
+656679  reg   0     1531         616  bytes          lab2_textfile.txt  Tue Jul 25 11:23:57 2017
+656683  reg   0     1531    16436089  bytes            lab3_dir.tar.gz  Sun Jul 30 11:44:47 2017
+656682  reg   1000  1531        1921  bytes            small_world.txt  Sun Jul 30 11:17:17 2017
+
+]0;briannadrew@loki:~/lab3[briannadrew@loki lab3]$ ./Lab3 -s 1090 /home/COIS/3380/lab3[C[C[1P[1@b[C[C[C[C[C[1P /home/COIS/3380/lab3[1P /home/COIS/3380/lab3[1P /home/COIS/3380/lab3[1P /home/COIS/3380/lab33 /home/COIS/3380/lab36 /home/COIS/3380/lab35 /home/COIS/3380/lab30 /home/COIS/3380/lab3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+sh: @cls: command not found
+[3;J[H[2J
+Information for /home/COIS/3380/lab3/
+
+inode   Type  UID   GID     SIZE                Filename                Modification date
+-----   ----  ---   ---     ---------------     ---------------------   ------------------------
+656688  reg   1000  1531        1179  bytes                   C128.XTK  Tue Jan  1 00:01:28 1980
+656691  reg   1005  1531       40102  bytes                CALCOMP.ARC  Sun Dec  6 16:21:52 1987
+656695  reg   1000  1531       20675  bytes     arasaurolopus_baby.pdf  Mon Feb 21 18:27:00 2000
+656706  reg   1000  1531       87489  bytes             diplodocus.pdf  Mon Feb 21 18:24:00 2000
+656714  reg   1000  1531       46903  bytes                  jewel.jpg  Sun Jul  3 13:09:58 2005
+656689  reg   1000  1531      408606  bytes                  poke1.jpg  Thu Nov  1 17:03:34 2001
+656713  reg   1000  1531       36019  bytes               stegosau.pdf  Mon Feb 21 18:21:40 2000
+
+]0;briannadrew@loki:~/lab3[briannadrew@loki lab3]$ ./Lab3 -b 3650 /home/COIS/3380/lab3[C[C /home/COIS/3380/lab3- /home/COIS/3380/lab3s /home/COIS/3380/lab3[C /home/COIS/3380/lab38 /home/COIS/3380/lab30 /home/COIS/3380/lab30 /home/COIS/3380/lab30 /home/COIS/3380/lab3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+sh: @cls: command not found
+[3;J[H[2J
+Information for /home/COIS/3380/lab3/
+
+inode   Type  UID   GID     SIZE                Filename                Modification date
+-----   ----  ---   ---     ---------------     ---------------------   ------------------------
+656695  reg   1000  1531       20675  bytes     arasaurolopus_baby.pdf  Mon Feb 21 18:27:00 2000
+656706  reg   1000  1531       87489  bytes             diplodocus.pdf  Mon Feb 21 18:24:00 2000
+656714  reg   1000  1531       46903  bytes                  jewel.jpg  Sun Jul  3 13:09:58 2005
+656689  reg   1000  1531      408606  bytes                  poke1.jpg  Thu Nov  1 17:03:34 2001
+656713  reg   1000  1531       36019  bytes               stegosau.pdf  Mon Feb 21 18:21:40 2000
+
+]0;briannadrew@loki:~/lab3[briannadrew@loki lab3]$ ./Lab3 -b 3650 -s 8000 /home/COIS/3380/lab3[C[C[C[C[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3[1P/home/COIS/3380/lab3 /home/COIS/3380/lab3-/home/COIS/3380/lab3s/home/COIS/3380/lab3 /home/COIS/3380/lab38/home/COIS/3380/lab30/home/COIS/3380/lab30/home/COIS/3380/lab30/home/COIS/3380/lab3 /home/COIS/3380/lab3-/home/COIS/3380/lab3b/home/COIS/3380/lab3 /home/COIS/3380/lab33/home/COIS/3380/lab36/home/COIS/3380/lab35/home/COIS/3380/lab30/home/COIS/3380/lab3 /home/COIS/3380/lab3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+sh: @cls: command not found
+[3;J[H[2J
+Information for /home/COIS/3380/lab3/
+
+inode   Type  UID   GID     SIZE                Filename                Modification date
+-----   ----  ---   ---     ---------------     ---------------------   ------------------------
+656695  reg   1000  1531       20675  bytes     arasaurolopus_baby.pdf  Mon Feb 21 18:27:00 2000
+656706  reg   1000  1531       87489  bytes             diplodocus.pdf  Mon Feb 21 18:24:00 2000
+656714  reg   1000  1531       46903  bytes                  jewel.jpg  Sun Jul  3 13:09:58 2005
+656689  reg   1000  1531      408606  bytes                  poke1.jpg  Thu Nov  1 17:03:34 2001
+656713  reg   1000  1531       36019  bytes               stegosau.pdf  Mon Feb 21 18:21:40 2000
+
+]0;briannadrew@loki:~/lab3[briannadrew@loki lab3]$ ./Lab3 -s 8000 -b 3650 /home/COIS/3380/lab3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cb 3650 -s 800[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8P/home/COIS/3380/lab3s 109[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6P/home/COIS/3380/lab3../[K[K /home/COIS/3380/lab3-s 90 /home/COIS/3380/lab3[K.c ../[Kcd /home/briannadrew/lab3./Lab3 -b 3650 -s 8000 /home/COIS/3380/lab3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C~[Kgcc ./Lab3.c -o Lab3[8Pnano Lab3.c ls[K./Lab3 -b 3650 -s 8000 /home/COIS/3380/lab3[8P/home/COIS/3380/lab3-s 8000 /home/COIS/3380/lab3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Knano Lab3.c gcc ./Lab3.c -o Lab3[12P./Lab3 ~-b 3650 -s 8000 /home/COIS/3380/lab3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pcd /home/briannadrew/lab3./Lab3.c[K ../[K -s 90 /home/COIS/3380/lab3[6P/home/COIS/3380/lab3[K ..//home/COIS/3380/lab3-s 90 /home/COIS/3380/lab3[1@3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cb 365[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-s 8000 /home/COIS/3380/lab3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs 8000 -b 365[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K./Lab3 -s 8000 -b 3650 /home/COIS/3380/lab3[C[C[1P[1P[1P[1@y[1@y[C[1P[1P[C0 /home/COIS/3380/lab3[1P /home/COIS/3380/lab3[1@y[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+sh: @cls: command not found
+[3;J[H[2J
+Information for /home/COIS/3380/lab3/
+
+inode   Type  UID   GID     SIZE                Filename                Modification date
+-----   ----  ---   ---     ---------------     ---------------------   ------------------------
+656680  dir   0     1531        4096  bytes                          .  Sun Jul 30 15:37:02 2017
+656673  dir   0     0           4096  bytes                         ..  Wed Feb  5 15:29:24 2020
+656716  reg   1000  1531        1832  bytes            1_test_random.c  Tue Jan 26 09:58:24 2016
+656710  reg   1000  1531        2879  bytes            2_seed_random.c  Tue Jan 26 09:58:24 2016
+656712  reg   1000  1531        6915  bytes           3_range_random.c  Tue Jan 26 10:53:18 2016
+656684  reg   0     1531           0  bytes                  CHAT_FIFO  Sun Jul 30 15:37:02 2017
+656690  reg   1000  1531       22434  bytes     Shell_file_processing.pdf  Thu Jan 21 10:43:52 2016
+656692  reg   1000  1531     9043232  bytes     WinSCP-5.9.3-Setup.exe  Sat Feb  4 15:12:29 2017
+656695  reg   1000  1531       20675  bytes     arasaurolopus_baby.pdf  Mon Feb 21 18:27:00 2000
+656693  reg   1000  1531     6477803  bytes             cities_all.csv  Fri Jan 20 12:38:49 2017
+656711  reg   1000  1531         559  bytes           cities_short.csv  Fri Jan 20 12:38:49 2017
+656706  reg   1000  1531       87489  bytes             diplodocus.pdf  Mon Feb 21 18:24:00 2000
+656698  dir   1000  1531        4096  bytes                    gnuplot  Mon Feb  8 13:39:14 2016
+664343  reg   0     48            20  bytes                   info.php  Mon Feb 20 13:21:01 2017
+656714  reg   1000  1531       46903  bytes                  jewel.jpg  Sun Jul  3 13:09:58 2005
+656679  reg   0     1531         616  bytes          lab2_textfile.txt  Tue Jul 25 11:23:57 2017
+656683  reg   0     1531    16436089  bytes            lab3_dir.tar.gz  Sun Jul 30 11:44:47 2017
+656689  reg   1000  1531      408606  bytes                  poke1.jpg  Thu Nov  1 17:03:34 2001
+656696  reg   1000  1531      531368  bytes                  putty.exe  Tue Jan 17 17:45:15 2017
+656682  reg   1000  1531        1921  bytes            small_world.txt  Sun Jul 30 11:17:17 2017
+656713  reg   1000  1531       36019  bytes               stegosau.pdf  Mon Feb 21 18:21:40 2000
+656708  reg   1000  1531        3093  bytes           string_testing.c  Wed Feb  1 07:07:25 2017
+656687  reg   1000  1531      213904  bytes     visual_Studio_Community.exe  Fri Dec  9 10:17:00 2016
+
+]0;briannadrew@loki:~/lab3[briannadrew@loki lab3]$ exit
+exit
+
+Script done on Sun 01 Mar 2020 10:03:31 PM EST
